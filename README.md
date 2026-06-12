@@ -5,7 +5,7 @@ A pure-Python async router for resilient multi-agent LLM pipelines — typed rat
 ![Python Version](https://img.shields.io/badge/python-3.12-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 > Read the full write-up on Towards Data Science →
-> **[LLM Fallback Systems Are Lying to You — I Built the Missing Recovery Layer](https://towardsdatascience.com/author/emmimalp-alexander/)**
+> **[LLM Fallbacks Break Agent Pipelines — I Built the Missing Recovery Layer](https://towardsdatascience.com/author/emmimalp-alexander/)**
 
 ## What It Does
 
